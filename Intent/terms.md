@@ -82,7 +82,7 @@ We may suspend or restrict access if we reasonably believe you have violated the
 
 You retain ownership of the content you enter in Intent, including behavior titles, messages, notes, and outcomes.
 
-Your content is stored locally on your device and, if enabled, in your private iCloud database as described in our [Privacy Policy](https://atm-pet-projects.github.io/LegalMain/Intent/privacy). We do not claim ownership of your user-authored content.
+Your content is stored locally on your device and, if enabled, in your private iCloud database as described in our [Privacy Policy](https://github.com/atm-pet-projects/LegalMain/blob/main/Intent/privacy.md). We do not claim ownership of your user-authored content.
 
 You are responsible for the content you create and for ensuring you have the right to enter it.
 
@@ -136,16 +136,16 @@ We may discontinue or restrict the app where required by law, platform policy, o
 
 ## Contact and support
 
-For help using Intent, see our [Support page](https://atm-pet-projects.github.io/LegalMain/Intent/support) or email [atrufanov.automations@gmail.com](mailto:atrufanov.automations@gmail.com).
+For help using Intent, see our [Support page](https://github.com/atm-pet-projects/LegalMain/blob/main/Intent/support.md) or email [atrufanov.automations@gmail.com](mailto:atrufanov.automations@gmail.com).
 
-For privacy questions, see our [Privacy Policy](https://atm-pet-projects.github.io/LegalMain/Intent/privacy).
+For privacy questions, see our [Privacy Policy](https://github.com/atm-pet-projects/LegalMain/blob/main/Intent/privacy.md).
 
 ---
 
 ## Related documents
 
-- [Privacy Policy](https://atm-pet-projects.github.io/LegalMain/Intent/privacy)
-- [Support](https://atm-pet-projects.github.io/LegalMain/Intent/support)
+- [Privacy Policy](https://github.com/atm-pet-projects/LegalMain/blob/main/Intent/privacy.md)
+- [Support](https://github.com/atm-pet-projects/LegalMain/blob/main/Intent/support.md)
 
 ---
 
