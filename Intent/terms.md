@@ -1,8 +1,8 @@
 # Terms of Use
 
-**Effective date:** [EFFECTIVE_DATE]
+**Last updated:** May 2026
 
-**Operator:** [LEGAL_ENTITY_NAME]
+**Operator:** AI Fitters Limited
 
 **Contact:** [atrufanov.automations@gmail.com](mailto:atrufanov.automations@gmail.com)
 
@@ -93,7 +93,7 @@ You are responsible for the content you create and for ensuring you have the rig
 We may update Intent’s features, availability, or these Terms from time to time.
 
 - **App changes:** Features may be added, changed, or removed as the app evolves.
-- **Terms changes:** When we update these Terms, we will revise the effective date at the top of this page. Continued use of the app after an update means you accept the revised Terms.
+- **Terms changes:** When we update these Terms, we will revise the last updated date at the top of this page. Continued use of the app after an update means you accept the revised Terms.
 
 If changes are material, we may provide additional notice within the app where appropriate.
 
@@ -113,7 +113,7 @@ We do not warrant that the app will be uninterrupted, error-free, or meet your e
 
 To the fullest extent permitted by applicable law:
 
-- [LEGAL_ENTITY_NAME] and its operators will not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of Intent.
+- AI Fitters Limited and its operators will not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of Intent.
 - Our total liability for any claim relating to the app will not exceed the amount you paid us for the app or subscriptions in the twelve (12) months before the claim arose, or GBP £10 if you have not paid anything.
 
 Nothing in these Terms limits liability that cannot be limited under applicable law, including liability for death or personal injury caused by negligence where such limitation is not permitted.

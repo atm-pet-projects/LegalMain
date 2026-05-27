@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Effective date:** [EFFECTIVE_DATE]
+**Last updated:** May 2026
 
-**Operator:** [LEGAL_ENTITY_NAME]
+**Operator:** AI Fitters Limited
 
 **Contact:** [atrufanov.automations@gmail.com](mailto:atrufanov.automations@gmail.com)
 
@@ -113,7 +113,7 @@ We rely on Apple’s platform protections and your device settings to help keep 
 
 ## Changes to this policy
 
-We may update this Privacy Policy from time to time. When we do, we will revise the effective date at the top of this page. Continued use of the app after an update means you accept the revised policy.
+We may update this Privacy Policy from time to time. When we do, we will revise the last updated date at the top of this page. Continued use of the app after an update means you accept the revised policy.
 
 If changes are material, we may provide additional notice within the app where appropriate.
 
@@ -123,7 +123,7 @@ If changes are material, we may provide additional notice within the app where a
 
 If you have questions about this Privacy Policy, contact:
 
-**[LEGAL_ENTITY_NAME]**  
+**AI Fitters Limited**  
 Email: [atrufanov.automations@gmail.com](mailto:atrufanov.automations@gmail.com)
 
 ---
