@@ -1,7 +1,7 @@
 # Support
 
 For help with Intent, contact:
-atrufanov.automations@gmail.com
+[atrufanov.automations@gmail.com](mailto:atrufanov.automations@gmail.com)
 
 ## Common topics
 

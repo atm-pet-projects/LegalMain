@@ -57,6 +57,7 @@ Intent offers auto-renewable subscriptions through Apple’s App Store.
 - **Billing:** All payments, free trials, renewals, and cancellations are handled by Apple, not by us directly.
 - **Pricing and trial terms:** Current pricing, any free trial period, renewal timing, and cancellation terms are shown in the Apple purchase sheet at the time of purchase.
 - **Auto-renewal:** Subscriptions renew automatically unless you cancel before the end of the current billing period.
+- **Free trial conversion:** If a free trial is offered, it converts to a paid subscription unless you cancel at least 24 hours before the trial ends. Payment is charged to your Apple ID account.
 - **Cancellation:** You can cancel through Settings → Apple ID → Subscriptions on your device.
 - **Refunds:** Refund requests are handled by Apple according to Apple’s policies.
 
@@ -74,7 +75,7 @@ You agree to use Intent lawfully and in good faith. You must not:
 - attempt to access data that is not yours
 - use the app in a way that harms others or violates applicable law
 
-We may suspend or restrict access if we reasonably believe you have violated these Terms.
+We may take action available to us under applicable law or platform policies if we reasonably believe you have violated these Terms.
 
 ---
 
