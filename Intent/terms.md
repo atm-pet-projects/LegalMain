@@ -2,13 +2,13 @@
 
 **Last updated:** May 2026
 
-**Operator:** AI Fitters Limited
-
 **Contact:** [atrufanov.automations@gmail.com](mailto:atrufanov.automations@gmail.com)
+
+Intent is currently independently operated by the developer of the application.
 
 These Terms of Use (“Terms”) govern your use of the Intent iOS app (“Intent”, “the app”, “we”, “us”). By downloading, accessing, or using Intent, you agree to these Terms. These Terms are not legal advice.
 
-**Governing law:** These Terms are governed by the laws of England and Wales, and the courts of England and Wales shall have exclusive jurisdiction, except where mandatory consumer protection laws in your country of residence require otherwise.
+**Current release:** Intent is currently offered for free. No purchase is required. Subscription features and subscription UI are disabled and may be introduced in a future version.
 
 ---
 
@@ -50,18 +50,24 @@ You agree not to rely on Intent as a substitute for professional advice, diagnos
 
 ---
 
-## Subscriptions and billing
+## Access and subscriptions
 
-Intent offers auto-renewable subscriptions through Apple’s App Store.
+### Current release
 
-- **Billing:** All payments, free trials, renewals, and cancellations are handled by Apple, not by us directly.
-- **Pricing and trial terms:** Current pricing, any free trial period, renewal timing, and cancellation terms are shown in the Apple purchase sheet at the time of purchase.
-- **Auto-renewal:** Subscriptions renew automatically unless you cancel before the end of the current billing period.
-- **Free trial conversion:** If a free trial is offered, it converts to a paid subscription unless you cancel at least 24 hours before the trial ends. Payment is charged to your Apple ID account.
-- **Cancellation:** You can cancel through Settings → Apple ID → Subscriptions on your device.
-- **Refunds:** Refund requests are handled by Apple according to Apple’s policies.
+In this release, Intent is offered at no charge. No subscription purchase is required to use the app. Subscription UI is disabled, and StoreKit subscriptions are not offered to users.
 
-We do not store your payment card details.
+### If subscription features are introduced in the future
+
+If auto-renewable subscriptions are introduced through Apple’s App Store in a future version, the following would apply:
+
+- **Billing:** All payments, free trials, renewals, and cancellations would be handled by Apple, not by the app operator directly.
+- **Pricing and trial terms:** Pricing, any free trial period, renewal timing, and cancellation terms would be shown in the Apple purchase sheet at the time of purchase.
+- **Auto-renewal:** Subscriptions would renew automatically unless you cancel before the end of the current billing period.
+- **Free trial conversion:** If a free trial is offered, it would convert to a paid subscription unless you cancel at least 24 hours before the trial ends. Payment would be charged to your Apple ID account.
+- **Cancellation:** You could cancel through Settings → Apple ID → Subscriptions on your device.
+- **Refunds:** Refund requests would be handled by Apple according to Apple’s policies.
+
+Payment card details are not stored by the app operator.
 
 ---
 
@@ -96,7 +102,7 @@ We may update Intent’s features, availability, or these Terms from time to tim
 - **App changes:** Features may be added, changed, or removed as the app evolves.
 - **Terms changes:** When we update these Terms, we will revise the last updated date at the top of this page. Continued use of the app after an update means you accept the revised Terms.
 
-If changes are material, we may provide additional notice within the app where appropriate.
+If changes are material, we may provide additional notice within the app where appropriate. If commercial operation, billing, or the operating entity changes in a future version, we will update these Terms accordingly.
 
 ---
 
@@ -114,8 +120,8 @@ We do not warrant that the app will be uninterrupted, error-free, or meet your e
 
 To the fullest extent permitted by applicable law:
 
-- AI Fitters Limited and its operators will not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of Intent.
-- Our total liability for any claim relating to the app will not exceed the amount you paid us for the app or subscriptions in the twelve (12) months before the claim arose, or GBP £10 if you have not paid anything.
+- The developer operating Intent will not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of Intent.
+- Total liability for any claim relating to the app will not exceed the amount you paid for the app or subscriptions in the twelve (12) months before the claim arose, or the equivalent of GBP £10 if you have not paid anything.
 
 Nothing in these Terms limits liability that cannot be limited under applicable law, including liability for death or personal injury caused by negligence where such limitation is not permitted.
 
@@ -123,7 +129,7 @@ Nothing in these Terms limits liability that cannot be limited under applicable 
 
 ## Third-party services
 
-Intent relies on Apple services, including the App Store, StoreKit, iCloud, and CloudKit. Your use of those services is subject to Apple’s terms and policies.
+Intent relies on Apple services, including the App Store, iCloud, and CloudKit. If subscription features are introduced in a future version, billing may also use StoreKit. Your use of those services is subject to Apple’s terms and policies.
 
 ---
 

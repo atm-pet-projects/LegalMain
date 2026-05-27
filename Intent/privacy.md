@@ -2,17 +2,19 @@
 
 **Last updated:** May 2026
 
-**Operator:** AI Fitters Limited
-
 **Contact:** [atrufanov.automations@gmail.com](mailto:atrufanov.automations@gmail.com)
 
+Intent is currently independently operated by the developer of the application.
+
 This Privacy Policy describes how Intent (“the app”, “we”, “us”) handles information when you use the Intent iOS app. This document is provided for transparency and is not legal advice.
+
+**Current release:** Intent is currently offered for free. No purchase is required. Subscription features and subscription UI are disabled and may be introduced in a future version.
 
 ---
 
 ## Overview
 
-Intent is a self-reflection and behavior interruption app. We do not operate a custom backend for the app. We do not use analytics, advertising, or third-party tracking. We do not sell user-authored content.
+Intent is a self-reflection and behavior interruption app. We do not operate user accounts or a custom backend for the app. We do not use analytics, advertising, or third-party tracking. We do not sell user-authored content.
 
 ---
 
@@ -28,7 +30,7 @@ When you use Intent, you may create and store the following information:
 - **Archive state** — whether a behavior is active or archived
 - **App settings** — preferences you configure within the app
 - **Notification preferences** — whether you have enabled local inactivity reminders
-- **Subscription entitlement state** — whether the app recognizes an active subscription on your device
+- **Subscription entitlement state** — if subscription features are offered in a future version, whether the app recognizes an active subscription on your device
 
 This information is created by you and is used to provide the app’s core features.
 
@@ -58,9 +60,11 @@ Some device-specific settings and local scheduling state (for example, data rela
 
 Apple provides private sync through iCloud and CloudKit. Data synced this way is subject to Apple’s terms and privacy practices. We do not have access to your iCloud account credentials.
 
-### App Store, StoreKit, and subscriptions
+### App Store and StoreKit (if subscriptions are offered in the future)
 
-Subscription billing, free trials, renewals, cancellation, and refunds are handled by Apple through the App Store and StoreKit. We receive subscription status information needed to unlock paid features, but we do not process payment card details directly.
+In this release, Intent does not offer StoreKit subscriptions, subscription UI is disabled, and no purchase is required.
+
+If subscription features are introduced in a future version, subscription billing, free trials, renewals, cancellation, and refunds would be handled by Apple through the App Store and StoreKit. We would receive subscription status information needed to unlock paid features, but we would not process payment card details directly.
 
 For more information, see [Apple’s Privacy Policy](https://www.apple.com/legal/privacy/).
 
@@ -82,7 +86,7 @@ You can disable notifications in the app or in iOS Settings.
 - We do **not** show ads.
 - We do **not** use third-party analytics or tracking tools.
 - We do **not** sell, rent, or trade your user-authored content.
-- We do **not** operate a custom backend that collects your app content.
+- We do **not** operate user accounts or a custom backend that collects your app content.
 
 ---
 
@@ -91,9 +95,10 @@ You can disable notifications in the app or in iOS Settings.
 You can:
 
 - **Disable notifications** in the app or in iOS Settings → Notifications → Intent
-- **Manage subscriptions** through Settings → Apple ID → Subscriptions on your device
 - **Delete the app** to remove locally stored data from that device
 - **Manage iCloud data** through your Apple ID and iCloud settings, where applicable
+
+If subscription features are introduced in a future version, you would be able to **manage subscriptions** through Settings → Apple ID → Subscriptions on your device.
 
 Deleting the app removes local data on that device. If you use iCloud sync, related data may remain in your iCloud account until you manage or remove it through Apple’s settings.
 
@@ -115,7 +120,7 @@ We rely on Apple’s platform protections and your device settings to help keep 
 
 We may update this Privacy Policy from time to time. When we do, we will revise the last updated date at the top of this page. Continued use of the app after an update means you accept the revised policy.
 
-If changes are material, we may provide additional notice within the app where appropriate.
+If changes are material, we may provide additional notice within the app where appropriate. If commercial operation of the app changes in a future version, we will update this policy accordingly.
 
 ---
 
@@ -123,7 +128,6 @@ If changes are material, we may provide additional notice within the app where a
 
 If you have questions about this Privacy Policy, contact:
 
-**AI Fitters Limited**  
 Email: [atrufanov.automations@gmail.com](mailto:atrufanov.automations@gmail.com)
 
 ---
